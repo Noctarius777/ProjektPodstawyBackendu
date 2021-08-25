@@ -1,0 +1,15 @@
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\bin\Debug\net5.0\ProjektPodstawyBackendu.Database.deps.json
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\bin\Debug\net5.0\ProjektPodstawyBackendu.Database.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\bin\Debug\net5.0\ref\ProjektPodstawyBackendu.Database.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\bin\Debug\net5.0\ProjektPodstawyBackendu.Database.pdb
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\obj\Debug\net5.0\ProjektPodstawyBackendu.Database.csprojAssemblyReference.cache
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\obj\Debug\net5.0\ProjektPodstawyBackendu.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\obj\Debug\net5.0\ProjektPodstawyBackendu.Database.AssemblyInfoInputs.cache
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\obj\Debug\net5.0\ProjektPodstawyBackendu.Database.AssemblyInfo.cs
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\obj\Debug\net5.0\ProjektPodstawyBackendu.Database.csproj.CoreCompileInputs.cache
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\obj\Debug\net5.0\ProjektPodstawyBackendu.Database.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\obj\Debug\net5.0\ref\ProjektPodstawyBackendu.Database.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\obj\Debug\net5.0\ProjektPodstawyBackendu.Database.pdb
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\bin\Debug\net5.0\ProjektPodstawyBackendu.Domain.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\bin\Debug\net5.0\ProjektPodstawyBackendu.Domain.pdb
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Database\obj\Debug\net5.0\ProjektPodstawyBackendu.Database.csproj.CopyComplete

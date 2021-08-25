@@ -1,0 +1,12 @@
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Domain\bin\Debug\net5.0\ProjektPodstawyBackendu.Domain.deps.json
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Domain\bin\Debug\net5.0\ProjektPodstawyBackendu.Domain.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Domain\bin\Debug\net5.0\ref\ProjektPodstawyBackendu.Domain.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Domain\bin\Debug\net5.0\ProjektPodstawyBackendu.Domain.pdb
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Domain\obj\Debug\net5.0\ProjektPodstawyBackendu.Domain.csprojAssemblyReference.cache
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Domain\obj\Debug\net5.0\ProjektPodstawyBackendu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Domain\obj\Debug\net5.0\ProjektPodstawyBackendu.Domain.AssemblyInfoInputs.cache
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Domain\obj\Debug\net5.0\ProjektPodstawyBackendu.Domain.AssemblyInfo.cs
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Domain\obj\Debug\net5.0\ProjektPodstawyBackendu.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Domain\obj\Debug\net5.0\ProjektPodstawyBackendu.Domain.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Domain\obj\Debug\net5.0\ref\ProjektPodstawyBackendu.Domain.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Domain\obj\Debug\net5.0\ProjektPodstawyBackendu.Domain.pdb

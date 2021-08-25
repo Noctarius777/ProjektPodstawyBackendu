@@ -1,0 +1,15 @@
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\bin\Debug\net5.0\ProjektPodstawyBackendu.Services.deps.json
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\bin\Debug\net5.0\ProjektPodstawyBackendu.Services.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\bin\Debug\net5.0\ref\ProjektPodstawyBackendu.Services.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\bin\Debug\net5.0\ProjektPodstawyBackendu.Services.pdb
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\bin\Debug\net5.0\ProjektPodstawyBackendu.Domain.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\bin\Debug\net5.0\ProjektPodstawyBackendu.Domain.pdb
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\obj\Debug\net5.0\ProjektPodstawyBackendu.Services.csprojAssemblyReference.cache
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\obj\Debug\net5.0\ProjektPodstawyBackendu.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\obj\Debug\net5.0\ProjektPodstawyBackendu.Services.AssemblyInfoInputs.cache
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\obj\Debug\net5.0\ProjektPodstawyBackendu.Services.AssemblyInfo.cs
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\obj\Debug\net5.0\ProjektPodstawyBackendu.Services.csproj.CoreCompileInputs.cache
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\obj\Debug\net5.0\ProjektPodstawyBackendu.Services.csproj.CopyComplete
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\obj\Debug\net5.0\ProjektPodstawyBackendu.Services.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\obj\Debug\net5.0\ref\ProjektPodstawyBackendu.Services.dll
+C:\Users\Marszal\source\repos\ProjektPodstawyBackendu\ProjektPodstawyBackendu.Services\obj\Debug\net5.0\ProjektPodstawyBackendu.Services.pdb

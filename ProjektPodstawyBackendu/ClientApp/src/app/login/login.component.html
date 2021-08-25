@@ -1,0 +1,6 @@
+<p>Email:</p>
+<input [(ngModel)]="userLoginDto.email" />
+<p>Password:</p>
+<input type="password" [(ngModel)]="userLoginDto.password" />
+
+<button (click)="sendRequestToBackend()">Submit</button>
